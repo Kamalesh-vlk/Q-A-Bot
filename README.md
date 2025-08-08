@@ -3,7 +3,7 @@ Question &amp; Answer Bot using Rag
 
 🧠 **Overview**
 
-This project is a PDF-based Question Answering Bot built with Gradio. It allows users to:
+This project is a PDF-based Question Answering Bot built with Streamlit. It allows users to:
 
 - Upload a PDF file
 - Ask questions related to the content
@@ -18,7 +18,7 @@ It's a lightweight interface demonstrating how language models can interact with
 📄 Upload and parse any PDF document <br>
 ❓ Ask context-specific questions related to the PDF <br>
 💬 Receive concise answers using natural language understanding <br>
-⚡ Interactive UI built with Gradio <br>
+⚡ Interactive UI built with Streamlit <br>
 
 
 **📁 Sample PDF** <br>
@@ -28,9 +28,9 @@ It's a lightweight interface demonstrating how language models can interact with
 
 **📸 Output Screenshot**
 
-The example below shows the bot answering a question extracted from a PDF about networking concepts:
+The example below shows the bot answering a question extracted from a PDF about networking concepts:<br>
+<img width="1366" height="599" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/0f95afa2-a3d2-4c0f-ba0f-0c947b0af52d" />
 
-<img width="1352" height="607" alt="output" src="https://github.com/user-attachments/assets/75eb9cfa-1012-4832-96d2-6e988b24940a" />
 <br>
 <br>
 
@@ -42,7 +42,7 @@ The example below shows the bot answering a question extracted from a PDF about 
 
 **🙌 Acknowledgements**
 
-* Built with ❤️ using Gradio
+* Built with ❤️ using Streamlit
 * Inspired by document Q&A systems like LangChain and ChatPDF
 
 
